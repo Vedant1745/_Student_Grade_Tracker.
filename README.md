@@ -24,3 +24,43 @@ Feel free to customize the program according to your needs. You can add features
 
 Contributing
 If you find any issues or have suggestions for improvement, please open an issue or create a pull request. Contributions are welcome!
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Some Test Cases :- 
+
+Enter the number of students: 3
+Enter grade for student 1: 99
+Enter grade for student 2: 9
+Enter grade for student 3: 98
+
+Choose an option:
+1. To Calculate the Average.
+2. To find the Highest Grade.
+3. To find the Lowest Grade.
+4. To Exit the program.
+Enter your choice :- 1
+Average grade: 68.66666666666667
+
+Choose an option:
+1. To Calculate the Average.
+2. To find the Highest Grade.
+3. To find the Lowest Grade.
+4. To Exit the program.
+Enter your choice :- 2
+Highest grade: 99
+
+Choose an option:
+1. To Calculate the Average.
+2. To find the Highest Grade.
+3. To find the Lowest Grade.
+4. To Exit the program.
+Enter your choice :- 3
+Lowest grade: 9
+
+Choose an option:
+1. To Calculate the Average.
+2. To find the Highest Grade.
+3. To find the Lowest Grade.
+4. To Exit the program.
+Enter your choice :- 4
+Exiting succesfully
